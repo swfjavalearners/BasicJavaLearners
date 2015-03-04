@@ -1,6 +1,7 @@
+<pre>
 <b><u>Resources:</u><b>
-1. [Book] SCJP Sun Certified Programmer for Java 6 By Kathy Sierra and Bert Bates
-2. http://docs.oracle.com/javase/tutorial/
+[Book] SCJP Sun Certified Programmer for Java 6 By Kathy Sierra and Bert Bates
+http://docs.oracle.com/javase/tutorial/
 <br>
 <b><u>Topics covered in this level</b></u>
 <br>
@@ -54,7 +55,7 @@
 <br>
 <b><u>[Class-9 1.5 Hrs]</u><b>
 - Final Test
-
+</pre>
 
 
 
